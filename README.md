@@ -1,2 +1,2 @@
 # Deploying-Gender-Classification-on-production
-Deploying a basic NLP problem using Flask
+Deploying a gender classification model using Flask
